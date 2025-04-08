@@ -1,11 +1,239 @@
-Url Shortner Script Setup Video :-
-https://youtu.be/ppIC7r5BhV4?si=bMflu5C3Zw2OxWhi
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Arshad Mukhtiar | SMM Panel</title>
+  <link rel="stylesheet" href="styles.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
 
-Best Hosting Website :- 
-https://sketchleader.com
+  <style>
+    /* Existing styles unchanged */
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #333;
+    }
 
-Hosting Coupon Code :- SketchLeader
+    .container {
+      width: 90%;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
 
-For Any Help or Paid Script Setup :-
-https://wa.me/+918677014327
-https://t.me/SketchLeaderHost
+    .container img {
+      width: 50%;
+      height: 50%;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 5px solid #333;
+    }
+
+    h1, h2, h3 {
+      margin: 0;
+      padding: 0;
+    }
+
+    a {
+      text-decoration: none;
+      color: #333;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background: #007BFF;
+      color: #fff;
+      border-radius: 5px;
+      transition: background 0.3s ease;
+    }
+
+    .btn:hover {
+      background: #0056b3;
+    }
+
+    header {
+      background: #007BFF;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+    }
+
+    header nav ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    header nav ul li {
+      display: inline;
+      margin: 0 15px;
+    }
+
+    header nav ul li a {
+      color: #fff;
+      font-weight: bold;
+    }
+
+    .section {
+      padding: 60px 0;
+    }
+
+    .section h2 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    .project-card {
+      background: #f4f4f4;
+      padding: 20px;
+      border-radius: 5px;
+      text-align: center;
+    }
+
+    .skills-list {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .skills-list li {
+      background: #007BFF;
+      color: #fff;
+      padding: 10px 20px;
+      margin: 10px;
+      border-radius: 5px;
+    }
+
+    form input, form textarea, form button {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    form button {
+      background: #007BFF;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+
+    form button:hover {
+      background: #0056b3;
+    }
+
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px 0;
+    }
+
+    footer .social-links a {
+      color: #fff;
+      margin: 0 10px;
+    }
+
+    footer .social-links a:hover {
+      color: #007BFF;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <img src="./Dev.jpg" alt="Logo"/>
+      <h1>Arshad Mukhtiar</h1>
+      <p>Affordable & Reliable SMM Panel Services</p>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#pricing">Pricing</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section id="about" class="section">
+    <div class="container">
+      <h2>About Our Panel</h2>
+      <p>Welcome to Arshad Mukhtiar’s SMM Panel – your one-stop solution for boosting your social media presence. We offer high-quality, fast, and affordable services for platforms like Instagram, Facebook, YouTube, and more.</p>
+    </div>
+  </section>
+
+  <section id="services" class="section">
+    <div class="container">
+      <h2>Our Services</h2>
+      <div class="project-grid">
+        <div class="project-card">
+          <h3>Instagram Growth</h3>
+          <p>Get real and active followers, likes, and views to grow your Instagram profile.</p>
+          <a href="#" class="btn">Order Now</a>
+        </div>
+        <div class="project-card">
+          <h3>YouTube Promotion</h3>
+          <p>Boost your views, subscribers, and watch hours with our YouTube campaigns.</p>
+          <a href="#" class="btn">Order Now</a>
+        </div>
+        <div class="project-card">
+          <h3>Facebook Engagement</h3>
+          <p>Increase likes, comments, and page followers with instant delivery.</p>
+          <a href="#" class="btn">Order Now</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="pricing" class="section">
+    <div class="container">
+      <h2>Pricing</h2>
+      <p>We offer flexible and competitive pricing for all our services. Contact us for a custom quote or bulk orders.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>Need help or ready to get started? Fill out the form below to reach out!</p>
+      <form action="#" method="post">
+        <input type="text" name="name" placeholder="Your Name" required />
+        <input type="email" name="email" placeholder="Your Email" required />
+        <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+        <button type="submit" class="btn">Send Message</button>
+      </form>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Arshad Mukhtiar | All rights reserved.</p>
+      <div class="social-links">
+        <a href="https://github.com/a1developer110" target="_blank">GitHub</a>
+        <a href="https://x.com/arshad_mukhtiar?t=DmXIlPDbp9BiZvHYGn_jhQ&s=09" target="_blank">Twitter</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
